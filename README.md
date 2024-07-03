@@ -16,11 +16,6 @@ Sign up for an account on Roboflow to recieve an API key. Next, download db.py f
 ```
 
 If all was done correctly, installation is done! Now, you can use the model or the database for what ever you want! 
-    
-## License
-
-[MIT License](https://choosealicense.com/licenses/mit/)
-
 
 ## Charts
 
@@ -33,3 +28,7 @@ If all was done correctly, installation is done! Now, you can use the model or t
 ![Recall-Confidence](https://imgur.com/UNrjwNp.png)
 
 ![Results](https://imgur.com/Z0XSaqK.png)
+
+## License
+
+[MIT License](https://choosealicense.com/licenses/mit/)
