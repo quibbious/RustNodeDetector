@@ -19,6 +19,8 @@ If all was done correctly, installation is done! Now, you can use the model or t
 
 ## Charts
 
+Pictured results are from the RND-v6 model, ran on 10 epochs.
+
 ![F1-Confidence](https://imgur.com/WrEsPbr.png)
 
 ![Precision-Confidence](https://imgur.com/5lZl1Yk.png)
