@@ -9,7 +9,7 @@ Uses AI (YOLOv5) to detect different types of ore nodes in the survival game Rus
 
 Sign up for an account on Roboflow to recieve an API key. Next, download db.py from this repo along with your selected weights. Then just put it in your project folder! 
 
-```bash
+```
     cd /path/to/your_project
     C:\path\to\your_project> python db.py # make sure to edit the API_KEY variable to have
     your API key, or else it will throw an error! 
