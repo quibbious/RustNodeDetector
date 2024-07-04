@@ -19,17 +19,20 @@ If all was done correctly, installation is done! Now, you can use the model or t
 
 ## Charts
 
-Pictured results are from the RND-v6 model, ran on 10 epochs.
+Pictured results are from the RND-v7 model, ran on 200 epochs (iterations).
 
-![F1-Confidence](https://imgur.com/WrEsPbr.png)
+![F1-Confidence](https://imgur.com/IFqnZ8Q.png)
 
-![Precision-Confidence](https://imgur.com/5lZl1Yk.png)
+![Precision-Confidence](https://imgur.com/LBknK88.png)
 
-![Precision-Recall](https://imgur.com/n89ZYFt.png)
+![Precision-Recall](https://imgur.com/pFniXmU.png)
 
-![Recall-Confidence](https://imgur.com/UNrjwNp.png)
+![Recall-Confidence](https://imgur.com/3D1TmPg.png)
 
-![Results](https://imgur.com/Z0XSaqK.png)
+![Confidence Matrix](https://imgur.com/plB5LDV.png)
+
+![Results](https://imgur.com/BbPzIcC.png)
+
 
 ## License
 
