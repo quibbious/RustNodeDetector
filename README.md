@@ -1,7 +1,7 @@
 
 # RustNodeDetector
 
-Uses AI (YOLOv5) to detect different types of ore nodes in the survival game Rust.
+Uses Computer Vision (YOLOv5) to detect different types of ore nodes in the survival game Rust.
 
 
 
