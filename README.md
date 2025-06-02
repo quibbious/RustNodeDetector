@@ -1,23 +1,31 @@
-
 # RustNodeDetector
 
-Uses Computer Vision (YOLOv5) to detect different types of ore nodes in the survival game Rust.
+> "Using computer vision to detect ore nodes in a video game. What could go wrong?"
+
+## Introduction
+
+RustNodeDetector is a program to detect ore nodes (such as sulfur, metal, and stone) in the [survival game Rust](https://store.steampowered.com/app/252490/Rust/). 
 
 
 
-## Installation
+### Documentation
+>"haha, good one!"
 
-Sign up for an account on Roboflow to recieve an API key. Next, download db.py from this repo along with your selected weights. Then just put it in your project folder! 
-
-```
-    cd /path/to/your_project
-    C:\path\to\your_project> python db.py # make sure to edit the API_KEY variable to have
-    your API key, or else it will throw an error! 
-```
-
-If all was done correctly, installation is done! Now, you can use the model or the database for what ever you want! 
+Well, seeing as this project **essentially provides the groundwork for cheat and bot developers,** this project will remain closed-source. RustNodeDetector is a *passion project*, and I won't just let anyone rummage through my shiny **live-inference detection and labeling algorithm**.
+**continued in FAQ
 
 
-## License
+## FAQ
+> "But, why?" - you, probably
+* Well, I had a lot of free time in June/July 2024, as summer just started picking up, and I saw this video of a [Valorant AI made with computer vision.](https://www.youtube.com/watch?v=LXA7zXVz8A4) I thought: 
+> "Hmm, what if I made something like that?"
 
-[MIT License](https://choosealicense.com/licenses/mit/)
+oh how dumb i was. Unbeknownst to me, what i thought would be a simple week-or-two-long project ended up evolving into a 2-YEAR-LONG "learning experience".
+
+>"Why is this project closed-source?"
+
+**the bad outweighs the good.**
+
+Open-Sourcing this project could lead to a lot of amazing projects, but I think the negative attention that this project also gathers is a big reason why im keeping it closed-source. Cheating in video games is already a large problem, and I don't want any of *my code* to be involved with cheating in general.
+
+
