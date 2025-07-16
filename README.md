@@ -29,5 +29,5 @@ oh how dumb i was. Unbeknownst to me, what i thought would be a simple week-or-t
 Open-Sourcing this project could lead to a lot of amazing projects, but I think the negative attention that this project also gathers is a big reason why im keeping it closed-source. Cheating in video games is already a huge problem, and I don't want any of *my code* to be involved with cheating in general.
 
 but if you wanted to know how it works to build something similar for different games or projects, i have made a **detailed** diagram showcasing how it works.
-![Behold, my brain](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)
+![Behold, my brain](https://github.com/quibbious/RustNodeDetector/blob/main/RustNodeDetectorDiagram.png?raw=true)
 
