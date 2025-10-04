@@ -20,9 +20,6 @@ Well, seeing as this project **essentially provides the groundwork for cheat and
 
 oh how dumb i was. Unbeknownst to me, what i thought would be a simple week-or-two-long project ended up evolving into a nearly 2-year-long "learning experience".
 
->"Why is this project closed-source?"
+>"Where's the totally fancy code?"
 
-**the bad outweighs the good.**
-
-Open-Sourcing this project could lead to a lot of amazing projects, but I think the negative attention that this project also gathers is a big reason why im keeping it closed-source. Cheating in video games is already a huge problem, and I don't want any of *my code* to be involved with cheating in general.
-]
+Well, I decided to keep the code for myself to make it a bit harder on cheat developers. I and anyone who has ever played a video game HATE cheaters-- so, if you really just want to see it work you can either watch the demo or attempt to build the live-inference program yourself, and see it work actually in real-time. (Keep in mind that the model is relatively dumb (<1300 imgs), so it definitely won't be the most IMPRESSIVE thing you've ever seen, but it's a promising start.)
