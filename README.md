@@ -6,7 +6,7 @@
 
 RustNodeDetector is a program to detect ore nodes (such as sulfur, metal, and stone) in the [survival game Rust](https://store.steampowered.com/app/252490/Rust/). 
 
-[A Live Demo](https://imgur.com/slcftMy)
+(https://imgur.com/slcftMy)
 
 ### Documentation
 >"haha, good one!"
