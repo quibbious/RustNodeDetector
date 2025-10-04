@@ -12,8 +12,6 @@ RustNodeDetector is a program to detect ore nodes (such as sulfur, metal, and st
 >"haha, good one!"
 
 Well, seeing as this project **essentially provides the groundwork for cheat and bot developers,** this project will remain closed-source. RustNodeDetector is a *passion project*, and I won't just let anyone rummage through my 1st-year code.
-**continued in FAQ
-
 
 ## FAQ
 > "But, why?" - you, probably
