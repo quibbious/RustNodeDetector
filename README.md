@@ -20,7 +20,7 @@ Well, seeing as this project **essentially provides the groundwork for cheat and
 * Well, I had a lot of free time in June/July 2024, as summer just started picking up, and I saw this video of a [Valorant AI made with computer vision.](https://www.youtube.com/watch?v=LXA7zXVz8A4) I thought: 
 > "Hmm, what if I made something like that?"
 
-oh how dumb i was. Unbeknownst to me, what i thought would be a simple week-or-two-long project ended up evolving into a 2-YEAR-LONG "learning experience".
+oh how dumb i was. Unbeknownst to me, what i thought would be a simple week-or-two-long project ended up evolving into a nearly 2-year-long "learning experience".
 
 >"Why is this project closed-source?"
 
