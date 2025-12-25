@@ -1,6 +1,6 @@
 # RustNodeDetector
 
-![RustNodeDetector In Action](https://i.imgur.com/slcftMy.mp4)
+![RustNodeDetector In Action](https://i.imgur.com/slcftMy)
 
 > "Using computer vision to detect ore nodes in a video game. What could go wrong?"
 
